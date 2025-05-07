@@ -3148,6 +3148,7 @@ a.scroll-to-top.show:hover {
 @media (max-width: 768px) {
   .testimonial-box {
     padding: 1.5rem;
+    height: auto;
   }
 
   .testimonial-client-info {
